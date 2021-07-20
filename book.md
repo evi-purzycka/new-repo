@@ -7,3 +7,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Ciąg dalszy zmian.
 I jeszcze jakas zmiana.
+
+?
+
+# Zmiana branchy
+
+Notatka
