@@ -7,3 +7,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Ciąg dalszy zmian.
 I jeszcze jakas zmiana.
+
+# Powrót na branch master i kolejne zmiany
+fhghfgh
