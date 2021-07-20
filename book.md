@@ -10,3 +10,6 @@ I jeszcze jakas zmiana.
 Notatka
 
 # Nowa branch i pierwsza modyfikacja przez Janusza
+
+# Druga zmiana u Janusza
+dhdfghfghgf
