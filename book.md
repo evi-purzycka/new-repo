@@ -4,6 +4,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Modyfikacja
 Ciąg dalszy zmian.
 I jeszcze jakas zmiana.
+<<<<<<< HEAD
 ?
 
 # Zmiana branchy
@@ -23,4 +24,4 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 # Czwarta zmiana
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
->>>>>>> janusz
+
